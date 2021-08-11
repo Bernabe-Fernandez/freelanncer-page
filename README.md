@@ -4,4 +4,4 @@ Repositorio de pagina web hecha en HTML y CSS para un freelancer, uso basico de 
 
 ## Proyectos
 
-- [Landing Page de FrontEnd Store](https://Bernabe-Fernandez.github.io/freelancer-page)
+- [Landing Page de FrontEnd Store](https://Bernabe-Fernandez.github.io/freelanncer-page)
